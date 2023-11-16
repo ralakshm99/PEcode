@@ -11,7 +11,7 @@ def get_temperature(latitude, longitude, api_key):
         return "Error: Unable to fetch data"
 
 # Replace with your actual API key
-API_KEY = 1f502844abc60f506ccd1fbf36d46d04
+API_KEY = '1f502844abc60f506ccd1fbf36d46d04'
 
 # Replace with the desired coordinates
 latitude = 40.7128
